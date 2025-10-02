@@ -1,0 +1,7 @@
+t1=(10,20,30,20,50)
+t2 =sorted(t1)
+t3 =sorted(t1,reverse = True)
+print(t1)
+print(t2)
+print(t3)
+print(type(t2))
