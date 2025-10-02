@@ -2,3 +2,6 @@ l1 =[1,2,3,4,5,9]
 l2 =[11,23,45,65,12]
 l1.extend(l2)
 print(l1)
+l1.append(l2)
+print(l1)
+print(type(l1))

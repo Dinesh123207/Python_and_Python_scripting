@@ -1,4 +1,4 @@
-r = 2**6//8%2
+r = 2**6//8%2   
 print(r)  # Output: 0
 s = 9**2//5-3
 print(s)  # Output: 13
